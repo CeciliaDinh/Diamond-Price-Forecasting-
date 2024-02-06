@@ -5,11 +5,10 @@
 <!-- TABLE OF CONTENTS -->
 # Table of contents :round_pushpin:
 1. [Introduction](#Introduction)
-2. [Techniques](#Methodology)
-3. [RelativeWork](#Relative Work)
-4. [Features](#Features)
-5. [Acknowledgments](#Acknowledgments)
-6. [References](#References)
+2. [Methodology](#Methodology)
+3. [Result](#Result)
+4. [Acknowledgments](#Acknowledgments)
+5. [References](#References)
 <!-- ABOUT THE PROJECT -->
 
 ## Introduction <a name="Introduction"></a> :bricks:
