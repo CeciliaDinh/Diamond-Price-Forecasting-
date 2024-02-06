@@ -1,3 +1,7 @@
+ </a>
+<h1 align="center">Diamond Price Forecasting</h3>
+
+
 <!-- TABLE OF CONTENTS -->
 # Table of contents :round_pushpin:
 1. [Introduction](#Introduction)
