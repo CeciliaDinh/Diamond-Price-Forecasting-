@@ -20,3 +20,7 @@
 <div style="text-align:justify">
 
 </div>
+
+## Methodology <a name="Methodology"></a> :bricks:
+
+</div>
