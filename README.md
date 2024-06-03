@@ -29,17 +29,10 @@ This project focuses on exploratory data analysis (EDA) and building prediction 
 - **Scikit-learn:** For building and evaluating machine learning models.
 - **Jupyter Notebook:** For interactive development and documentation.
 
-## Project Structure
-1. **Data Collection:** Obtain the diamond dataset from a reliable source or dataset repository.
-2. **Data Preprocessing:** Clean the dataset, handle missing values, encode categorical variables, and perform feature scaling if necessary.
-3. **Exploratory Data Analysis (EDA):** Analyze the distribution of features, explore relationships between variables, and visualize patterns in the data.
-4. **Feature Engineering:** Create new features or transform existing ones to improve model performance.
-5. **Model Building:** Train and evaluate multiple machine learning models such as linear regression, decision trees, random forests, and gradient boosting regressors.
-6. **Model Evaluation:** Compare the performance of different models using evaluation metrics such as mean absolute error (MAE), mean squared error (MSE), and R-squared (R2) score.
-7. **Model Deployment:** Deploy the selected prediction model for diamond price estimation.
-
-## Potential Insights to Explore
-- Correlation between diamond price and carat weight, cut, color, clarity, depth, and table.
-- Impact of categorical features such as cut, color, and clarity on diamond prices.
-- Distribution of diamond prices across different categories of cut, color, and clarity.
-- Seasonal trends or patterns in diamond prices over time
+## Project Structuretaset repository.
+1. **Data Preprocessing:** Clean the dataset, handle missing values, encode categorical variables, and perform feature scaling if necessary.
+2. **Exploratory Data Analysis (EDA):** Analyze the distribution of features, explore relationships between variables, and visualize patterns in the data.
+3. **Feature Engineering:** Create new features or transform existing ones to improve model performance.
+4. **Model Building:** Train and evaluate multiple machine learning models such as linear regression, decision trees, random forests, and gradient boosting regressors.
+5. **Model Evaluation:** Compare the performance of different models using evaluation metrics such as mean absolute error (MAE), mean squared error (MSE), and R-squared (R2) score.
+6. **Model Deployment:** Deploy the selected prediction model for diamond price estimation.
